@@ -23,7 +23,7 @@ const Button = ({
         type={type}
         className={clsx(
           actionButton &&
-            `bg-orange-700 rounded-full p-2 text-white`,
+            `bg-purple-700 rounded-full p-2 text-white`,
           `bg-orange-700 px-2 text-white`
         )}
       >
